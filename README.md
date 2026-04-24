@@ -156,32 +156,32 @@ The hardware implementation demonstrates the practical use of:
 ## Simulation Screenshots
 
 ### Final Simulation Output
-![Final Simulation](images:software/final_simulation.png)
+![Final Simulation](images/software/images:final_simulation.png)
 
 ### Gazebo Empty World Issue
-![Gazebo Empty World](images:software/empty_gazebo_issue.png)
+![Gazebo Empty World](images/software/images:empty_gazebo_issue.png)
 
 ### RViz / Robot Model View
-![RViz Robot Model](images:software/rviz_robot_fixed.png)
+![RViz Robot Model](images/software/images:rviz_robot_fixed.png)
 
 ### Pick and Place Position Code
-![Position Code](images:software/pssition_code.png)
+![Position Code](images/software/images:pssition_code.png)
 
 ### Camera Setup - View 1
-![Camera Setup 1](images:software/camera_setup_1.png)
+![Camera Setup 1](images/software/images:camera_setup_1.png)
 
 ### Camera Setup - View 2
-![Camera Setup 2](images:software/camera_setup_2.png)
+![Camera Setup 2](images/software/images:camera_setup_2.png)
 
 ---
 
 ## Hardware Photos
 
 ### Hardware Control Interface with Camera Detection
-![Hardware Camera Detection](images/hardware/camera_detect.jpeg)
+![Hardware Camera Detection](images/Hardware/camera_detect.jpeg)
 
 ### Hardware Pick and Place Setup
-![Hardware Pick and Place](images/hardware/pick_object.jpeg)
+![Hardware Pick and Place](images/Hardware/pick_object.jpeg)
 
 ---
 
